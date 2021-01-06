@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/lucini?template=classic&languages=1&stars=1&stars.limit=4&config.timezone=America%2FSao_Paulo)
+![Metrics](https://metrics.lecoq.io/lucini?template=classic&isocalendar=1&languages=1&posts=1&stars=1&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&stars.limit=4&config.timezone=America%2FSao_Paulo)
